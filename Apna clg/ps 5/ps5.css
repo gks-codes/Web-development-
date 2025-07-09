@@ -1,0 +1,18 @@
+div {
+    height :200px;
+    width : 200px;
+    background-image : url("ap.jpg");
+    background-size :cover;
+    position : fixed;
+    right : 0px;
+    top : 240px;
+
+
+}
+p{
+    color :brown;
+    text-align: center;
+    text-transform: capitalize;
+    
+
+}
